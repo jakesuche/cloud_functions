@@ -14,9 +14,13 @@
   
 ## Event Object 
 eventI: String
+
 timestamp: String(ISO 8601)
+
 eventType: String
+
 resource: String
+
 data:Object
 
 ### Data Property
