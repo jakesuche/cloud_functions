@@ -9,6 +9,7 @@
 ## function types
 1 HTTP Trigger ==> request(just a simple http request. when you call a url,its going to trigger and process the request)
 2 Pub/Sub trigger  ==> Messsage
+
 3 Storage trigger ==> Object change notification(delete and updating file events)
 
   
@@ -25,7 +26,9 @@ data:Object
 
 ### Data Property
 1 HTTP from Request(Express.js)
+
 2 pub/sub message
+
 3 Cloud storage object
 
 
